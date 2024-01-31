@@ -4,11 +4,11 @@
 
 | Group: Group Number 18     	  |
 |-----------------|
-| Student 1 | Taran Bains           |   
-| Student 2 | Balkarn Gill          |   
-| Student 3 | Satchy Karalasingham  |   
-| Student 4 | Hannah D'Souza        |   
-| Student 4 | Chioma Ukaegbu        |   
+| Student 1  Taran Bains           |   
+| Student 2  Balkarn Gill          |   
+| Student 3  Satchy Karalasingham  |   
+| Student 4  Hannah D'Souza        |   
+| Student 5  Chioma Ukaegbu        |   
 
 
 **Table of Contents**
@@ -53,7 +53,7 @@ Text…
 
 # How the Pair Testing was Managed and Teamwork/Effort was Divided 
 
-The team was initially divided into two for the exploratory testing, to help the team members individually understand the application and the features/functionality. 
+The team was initially divided into two for the exploratory testing, to help the team members individually understand the application and the features/functionality. Then the team members went through the Test Cases outlined in Appendix C, discussed if the applications output should be expected or not, and added bugs that the team agreed on to the Jira board. 
 
 
 # Difficulties Encountered, Challenges Overcome, and Lessons Learned
