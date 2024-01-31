@@ -2,12 +2,13 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group: Group Number      |
+| Group: Group Number 18     	  |
 |-----------------|
-| Student 1 name                |   
-| Student 2 name              |   
-| Student 3 name               |   
-| Student 4 name                |   
+| Student 1 Taran Bains           |   
+| Student 2 Balkarn Gill          |   
+| Student 3 Satchy Karalasingham  |   
+| Student 4 Hannah D'Souza        |   
+| Student 4 Chioma Ukaegbu        |   
 
 
 **Table of Contents**
@@ -15,7 +16,7 @@
 (When you finish writing, update the following list using right click, then
 “Update Field”)
 
-[1 Introduction	1](#_Toc439194677)
+[1 Introduction	1](#_Toc439194677) 
 
 [2 High-level description of the exploratory testing plan	1](#_Toc439194678)
 
@@ -31,8 +32,7 @@ learned	1](#_Toc439194682)
 
 # Introduction
 
-An introduction of your lab work, and what you knew about exploratory and manual
-functional testing before this lab
+This assignment focuses on two different software methodologies: Exploratory and Manual Testing. Exploratory testing focuses on designing test cases as a tester is actively testing the application. They are learning the software as they are writing test cases, and adapting the test cases based on what they find. Manual testing refers to manually executing a set of already thought-out/designed test cases, without using automation tools, ie. a person still needs to execute the test cases. 
 
 # High-level description of the exploratory testing plan
 
